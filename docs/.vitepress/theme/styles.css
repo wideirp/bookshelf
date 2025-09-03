@@ -1,0 +1,58 @@
+body {
+  font-size: 18px;
+  text-align: justify;
+}
+
+.subtitle {
+  font-size: .9em;
+  color: #aaa;
+  padding: 0;
+}
+
+.bibleref {
+  background-color: #262743;
+  border-left: 4px solid #fffdd0;
+  position: relative;
+  font-style: italic;
+  color: #fffdd0;
+  font-size: 0.8em;
+  line-height: 1.6;
+  border-radius: 8px;
+
+  p {
+    padding: 0.75em 1em 0 1em;
+    padding-bottom: 2em;
+    /* clear room for verse-ref */
+  }
+
+  .verse-ref {
+    text-align: right;
+    font-weight: bold;
+    color: #fffdd0;
+    font-size: 0.9em;
+    position: absolute;
+    bottom: 0.5em;
+    right: 1em;
+  }
+}
+
+.spotlight {
+  background-color: #262743;
+  border-left: 4px solid #fffdd0;
+  color: #fffdd0;
+  font-size: 0.9em;
+  border-radius: 8px;
+  padding: 0.75em 1em;
+  font-style: italic;
+
+  .spotlight-title {
+    text-align: left;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 0;
+  }
+
+  p {
+    line-height: 1.5;
+  }
+}
