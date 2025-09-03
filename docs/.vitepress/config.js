@@ -4,6 +4,7 @@ import { md_config } from './markdown.js'
 module.exports = {
   title: 'Bookshelf',
   description: 'A collection of books',
+  base: '/bookshelf/',
   markdown: {
     config: md_config,
   },
