@@ -9,6 +9,7 @@ next:
 ---
 
 # First Evening Lecture 
+
 <p class='subtitle'>September 11, 1884</p>
 
 ---
@@ -278,7 +279,8 @@ As Abraham sent Hagar away into the desert with a loaf of bread and a jug of wat
 In Deuteronomy 27, God says through Moses:
 
 ::: bibleref Deut 27:26
-"Cursed be he that confirmeth not all the words of this law to do them. And all the people shall say, Amen."
+"Cursed be he that confirmeth not all the words of this law to do them.
+And all the people shall say, Amen."
 :::
 
 Indeed, man is invited by the Law to pronounce a curse upon himself.
