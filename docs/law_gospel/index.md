@@ -13,3 +13,4 @@ sidebar: false
 1. [First Lecture](./first_lecture.md)
 2. [Second Lecture](./second_lecture.md)
 3. [Third Lecture](./third_lecture.md)
+4. [Fourth Lecture](./fourth_lecture.md)

@@ -16,7 +16,8 @@ module.exports = {
       '/law_gospel/': [
         { text: 'First Lecture', link: '/law_gospel/first_lecture' },
         { text: 'Second Lecture', link: '/law_gospel/second_lecture' },
-        { text: 'Third Lecture', link: 'law_gospel/third_lecture' },
+        { text: 'Third Lecture', link: '/law_gospel/third_lecture' },
+        { text: 'Fourth Lecture', link: '/law_gospel/fourth_lecture' },
       ]
     }
   }
