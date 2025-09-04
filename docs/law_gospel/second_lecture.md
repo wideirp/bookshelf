@@ -3,7 +3,9 @@ title: "Second Lecture"
 prev:
     text: "First Lecture"
     link: "./first_lecture.md"
-next: false
+next:
+    text: "Third Lecture"
+    link: "./third_lecture.md"
 ---
 
 # Second Evening Lecture.
@@ -218,7 +220,8 @@ In other respects both doctrines must indeed be preached, but at this point the 
 In 1 Timothy 1, Paul writes: 
 
 ::: bibleref 1 Tim 1:8-10
-"But we know that the law is good, if a man use it lawfully; Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers, For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine;"
+"But we know that the law is good, if a man use it lawfully;
+Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers, For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine;"
 :::
 
 To all persons of this description, then, the Law only is to be preached, and they are not to have a drop of Gospel.
@@ -229,7 +232,9 @@ Accordingly, while the devil holds you in a single sin, you are not yet a proper
 A prophetic utterance of our Lord prior to His incarnation was cited by Him afterwards in the days of His flesh. It is found in Isaiah 61:1-3.
 
 ::: bibleref Is. 61:1-3 ( see also Luke 4:16-21 )
-"The Spirit of the Lord GOD is upon me; Because the LORD hath anointed me to preach good tidings unto the meek; He hath sent me to bind up the brokenhearted, To proclaim liberty to the captives, And the opening of the prison to them that are bound; To proclaim the acceptable year of the LORD, And the day of vengeance of our God; To comfort all that mourn; To appoint unto them that mourn in Zion, To give unto them beauty for ashes, The oil of joy for mourning, The garment of praise for the spirit of heaviness; That they might be called trees of righteousness, The planting of the LORD, that he might be glorified."
+"The Spirit of the Lord GOD is upon me; Because the LORD hath anointed me to preach good tidings unto the meek;
+He hath sent me to bind up the brokenhearted, To proclaim liberty to the captives, And the opening of the prison to them that are bound; To proclaim the acceptable year of the LORD, And the day of vengeance of our God;
+To comfort all that mourn; To appoint unto them that mourn in Zion, To give unto them beauty for ashes, The oil of joy for mourning, The garment of praise for the spirit of heaviness; That they might be called trees of righteousness, The planting of the LORD, that he might be glorified."
 :::
 
 The “day of vengeance of our God” in this test is the judgment which God is to execute upon hell and the devil.
@@ -241,7 +246,8 @@ Only those perish who absolutely refuse to be saved; for God coerces no one in t
 
 Now, to such poor, sad-hearted sinners — I repeat it — not a word of the Law must be preached.
 Woe to the preacher who would continue to preach the Law to a famished sinner!
-On the contrary, to such a person the preacher must say: “Do but come! There is still room! No matter how great a sinner you are, there is still room for you. Even if you were a Judas or a Cain, there is still room. Oh, do, do come to Jesus!”
+On the contrary, to such a person the preacher must say:
+“Do but come! There is still room! No matter how great a sinner you are, there is still room for you. Even if you were a Judas or a Cain, there is still room. Oh, do, do come to Jesus!”
 Persons of this kind are proper subjects on whom the Gospel is to operate.
 
 Let me now cite to you a passage from Luther’s Sermon on the Distinction between the Law and the Gospel.
