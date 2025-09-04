@@ -11,12 +11,12 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'The Proper Distinction between Law and Gospel', link: '/law_gospel/' },
     ],
     sidebar: {
       '/law_gospel/': [
         { text: 'First Lecture', link: '/law_gospel/first_lecture' },
-        { text: 'Second Lecture', link: '/law_gospel/second_lecture' }
+        { text: 'Second Lecture', link: '/law_gospel/second_lecture' },
+        { text: 'Third Lecture', link: 'law_gospel/third_lecture' },
       ]
     }
   }
