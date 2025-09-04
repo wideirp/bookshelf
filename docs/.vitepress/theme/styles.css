@@ -1,21 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Poppins:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root {
+  --vp-c-bg: #1E1E2E;
+  --vp-c-text: #D9E0EE;
+  --vp-c-link: #96CDFB;
+}
+
 body {
   font-size: 18px;
+  font-family: Poppins, Arial, Helvetica, sans-serif;
   text-align: justify;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Crimson Text", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
 .subtitle {
-  font-size: .9em;
+  font-size: 1em;
+  font-family: "Crimson Text", serif;
   color: #aaa;
   padding: 0;
 }
 
 .bibleref {
-  background-color: #262743;
-  border-left: 4px solid #fffdd0;
+  background-color: #302d41;
+  border-left: 4px solid #f5c2e7;
   position: relative;
   font-style: italic;
-  color: #fffdd0;
-  font-size: 0.8em;
+  color: #f5e0dc;
+  font-size: 1em;
   line-height: 1.6;
   border-radius: 8px;
 
@@ -27,9 +48,11 @@ body {
 
   .verse-ref {
     text-align: right;
-    font-weight: bold;
-    color: #fffdd0;
-    font-size: 0.9em;
+    font-family: "Crimson Text", serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #f5e0dc;
+    font-size: 1em;
     position: absolute;
     bottom: 0.5em;
     right: 1em;
@@ -37,19 +60,22 @@ body {
 }
 
 .spotlight {
-  background-color: #262743;
-  border-left: 4px solid #fffdd0;
-  color: #fffdd0;
-  font-size: 0.9em;
+  background-color: #2a2b3d;
+  border-left: 4px solid #abe9b3;
+  color: #c9e8c5;
+  font-size: 1em;
   border-radius: 8px;
   padding: 0.75em 1em;
-  font-style: italic;
+  font-style: normal;
+  font-weight: 600;
 
   .spotlight-title {
     text-align: left;
-    font-size: 1.5em;
-    font-weight: bold;
+    font-size: 1.7em;
+    font-weight: 400;
+    font-style: normal;
     margin: 0;
+
   }
 
   p {
